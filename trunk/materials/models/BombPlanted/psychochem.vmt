@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/psychochem"
+	"$bumpmap" "models/BombPlanted/psychochem_n"
+}

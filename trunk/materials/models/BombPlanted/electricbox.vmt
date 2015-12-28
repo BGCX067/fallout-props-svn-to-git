@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/electricbox"
+	"$bumpmap" "models/BombPlanted/electricbox_n"
+}

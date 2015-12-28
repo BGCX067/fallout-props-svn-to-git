@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/firstaidkit01"
+	"$bumpmap" "models/BombPlanted/firstaidkit01_n"
+}

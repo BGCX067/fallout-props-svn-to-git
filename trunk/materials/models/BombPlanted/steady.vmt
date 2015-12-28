@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/FalloutNV/steady"
+	"$bumpmap" "models/FalloutNV/steady_n"
+}

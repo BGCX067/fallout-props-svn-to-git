@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/FalloutNV/jet01"
+	"$bumpmap" "models/FalloutNV/jet01_n"
+}

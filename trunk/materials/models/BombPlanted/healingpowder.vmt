@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/healingpowder"
+	"$bumpmap" "models/BombPlanted/healingpowder_n"
+}

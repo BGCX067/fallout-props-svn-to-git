@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/ssvendingmachine"
+	"$bumpmap" "models/BombPlanted/ssvendingmachine_n"
+	"$basetexture2" "models/BombPlanted/ssvendingmachine_g"
+}

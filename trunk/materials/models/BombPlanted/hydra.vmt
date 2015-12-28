@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/FalloutNV/hydra"
+	"$bumpmap" "models/FalloutNV/hydra_n"
+}

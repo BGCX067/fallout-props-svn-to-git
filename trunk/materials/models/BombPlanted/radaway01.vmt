@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/radaway01"
+	"$bumpmap" "models/BombPlanted/radaway01_g"
+}

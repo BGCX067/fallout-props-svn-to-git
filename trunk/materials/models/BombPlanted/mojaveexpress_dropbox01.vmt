@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/mojaveexpress_dropbox01"
+	"$bumpmap" "models/BombPlanted/mojaveexpress_dropbox01_n"
+}

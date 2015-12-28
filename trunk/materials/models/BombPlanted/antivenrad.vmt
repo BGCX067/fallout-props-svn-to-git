@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/antivenrad"
+	"$bumpmap" "models/BombPlanted/antivenrad_n"
+}

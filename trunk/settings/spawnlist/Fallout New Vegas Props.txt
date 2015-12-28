@@ -1,0 +1,147 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"1"
+		"name"		"Fallout: New Vegas Models"
+	}
+	"Entries"
+	{
+		"1"		
+		{
+			"model"		"models/BombPlanted/Dropbox.mdl"
+		}		
+		"2"		
+		{
+			"model"		"models/BombPlanted/Holodisk.mdl"
+		}		
+		"3"		
+		{
+			"model"		"models/BombPlanted/AcousticGuitar.mdl"
+		}		
+		"4"		
+		{
+			"model"		"models/BombPlanted/ElectricBox.mdl"
+		}		
+		"5"		
+		{
+			"model"		"models/BombPlanted/ElectricBoxHulk.mdl"
+		}		
+		"6"		
+		{
+			"model"		"models/BombPlanted/Generator.mdl"
+		}		
+		"7"		
+		{
+			"model"		"models/BombPlanted/NukaCola.mdl"
+		}		
+		"8"		
+		{
+			"model"		"models/BombPlanted/NukaColaOpen.mdl"
+		}
+		"9"		
+		{
+			"model"		"models/BombPlanted/SS.mdl"
+		}		
+		"10"		
+		{
+			"model"		"models/BombPlanted/SSOpen.mdl"
+		}
+		"11"	
+		{
+			"model"			"models/BombPlanted/Quartz.mdl"
+		}
+		"12"
+		{
+			"model"			"models/BombPlanted/Victory.mdl"
+		}
+		"13"	
+		{
+			"model"			"models/BombPlanted/SSVendingMachine.mdl"
+		}
+		"14"
+		{
+			"model"			"models/BombPlanted/AntiVenomBark.mdl"
+		}
+		"15"	
+		{
+			"model"			"models/BombPlanted/AntiVenomCazador.mdl"
+		}
+		"16"
+		{
+			"model"			"models/BombPlanted/AntiVenomGen.mdl"
+		}
+		"17"
+		{
+			"model"			"models/BombPlanted/AntiVenomRad.mdl"
+		}
+		"18"
+		{
+			"model"			"models/BombPlanted/DoctorBag.mdl"
+		}
+		"19"
+		{
+			"model"			"models/BombPlanted/PsychoChem.mdl"
+		}
+		"20"
+		{
+			"model"			"models/BombPlanted/RadAway.mdl"
+		}
+		"21"
+		{
+			"model"			"models/BombPlanted/RadX.mdl"
+		}
+		"22"
+		{
+			"model"			"models/BombPlanted/StealthBoy.mdl"
+		}
+		"23"
+		{
+			"model"			"models/BombPlanted/Stimpak.mdl"
+		}
+		"24"
+		{
+			"model"			"models/BombPlanted/SuperStimpak.mdl"
+		}
+		"25"
+		{
+			"model"			"models/BombPlanted/HealingPowder.mdl"
+		}
+		"26"
+		{
+			"model"			"models/BombPlanted/GunCabinet.mdl"
+		}
+		"27"
+		{
+			"model"			"models/BombPlanted/AnesthesiaMachine.mdl"
+		}
+		"28"
+		{
+			"model"			"models/BombPlanted/Gurney.mdl"
+		}
+		"29"
+		{
+			"model"			"models/BombPlanted/Gurney-BrokenPad.mdl"
+		}
+		"30"
+		{
+			"model"			"models/BombPlanted/GurneyBroken.mdl"
+		}
+		"31"
+		{
+			"model"			"models/BombPlanted/SurgicalScreen.mdl"
+		}
+		"32"
+		{
+			"model"			"models/BombPlanted/SurgicalCart.mdl"
+		}
+		"33"
+		{
+			"model"			"models/BombPlanted/SurgicalTray-Bloody.mdl"
+		}
+		"34"
+		{
+			"model"			"models/BombPlanted/FirstaidKit.mdl"
+		}
+	}
+}

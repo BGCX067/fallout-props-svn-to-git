@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/quartz"
+	"$bumpmap" "models/BombPlanted/nuka_n"
+	"$basetexture2" "models/BombPlanted/quartzglass"
+}

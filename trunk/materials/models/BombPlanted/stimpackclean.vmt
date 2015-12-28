@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/stimpackclean"
+	"$bumpmap" "models/BombPlanted/stimpackclean_n"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/BombPlanted/OpenNuka"
+	"$bumpmap" "models/BombPlanted/OpenNuka_n"
+}
